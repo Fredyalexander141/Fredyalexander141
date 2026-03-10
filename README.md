@@ -9,8 +9,7 @@
 <p align="center">
   <em>
     Hola, soy Fredy Ramírez. Pero me conocen más como Alex 😎. Actualmente estoy cursando la carrera de Ing en Sistemas de Información y Ciencias de la Computación en <a href="https://www.umg.edu.gt"> <b>Universidad Mariano Gálvez de Guatemala</b></a>. <br>
-    <b>Me apasiona aprender</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b>me apasiona crear</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    <b>Me apasiona aprender</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b>me apasiona crear</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"El código que escribes te convierte en programador.
