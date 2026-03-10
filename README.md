@@ -8,12 +8,13 @@
 
 <p align="center">
   <em>
-    Hola, soy Fredy Ramírez. Pero me conocen más como Alex 😎. Actualmente estoy cursando la carrera de Ing en Sistemas de Información y Ciencias de la Computación en <a href="https://uom.lk/"> <b>Universidad Mariano Gálvez de Guatemala</b></a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Hola, soy Fredy Ramírez. Pero me conocen más como Alex 😎. Actualmente estoy cursando la carrera de Ing en Sistemas de Información y Ciencias de la Computación en <a href="https://www.umg.edu.gt"> <b>Universidad Mariano Gálvez de Guatemala</b></a>. <br>
+    <b>Me apasiona aprender</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y <b>me apasio crear</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"El código que escribes te convierte en programador.
+El código que borras te convierte en un BUEN programador."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
