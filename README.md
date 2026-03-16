@@ -1,4 +1,6 @@
-
+<head>
+  <img src="https://i.pinimg.com/originals/ca/ca/ab/cacaab7981e4789b53cbf93967add854.gif"/>
+</head>
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Alex </h1>
 <h3 align="center">Soy Programador. Estudio Ingeniería en Sistemas y mi enfoque esta en la creación de Software </h3>
