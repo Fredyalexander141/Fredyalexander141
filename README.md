@@ -1,7 +1,7 @@
 <head>
-  
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width=""/>
  
+  <img src="https://i.pinimg.com/originals/6a/fa/8e/6afa8e23162291ad8e594c36c5b262c0.gif" style="text-align: center;">
+
 </head>
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Alex </h1>
@@ -46,31 +46,7 @@ El código que borras te convierte en un BUEN programador."</i></b> <img src="ht
   <hr>
   <p align="center">
 <i><b>Git Activeness</b></i></p>
-<p>                         
-          @@@@@@.       
-          @@@@@@@@      
-    -     @@@@@@@@@:    
-   :@     @@@@@@@@@@:   
-  :@@     @@@@@@@@@@@   
-  @@@     @@@@@@@@@@@@  
- :@@@     @@@@@@@@@@@@. 
- @@@@     @@@@@@@@@@@@@ 
- @@@@     @@@@@@@@@@@@@ 
- @@@@     @@@@@@@@@@@@@ 
- @@@@     @@@@@@@@@@@@@ 
- @@@@     @@@@@@@@@@@@@ 
- ----     ------------- 
-                        
-                        
- .@@@     @@@@@@@@@@@@. 
-  @@@     @@@@@@@@@@@@  
-  .@@     @@@@@@@@@@@   
-   :@     @@@@@@@@@@:   
-    :     @@@@@@@@@:    
-          @@@@@@@@      
-          @@@@@@.       
-                        
-</p>
+
  
 
 
